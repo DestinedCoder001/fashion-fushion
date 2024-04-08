@@ -1,3 +1,4 @@
+// Just wanna trigger a deployment
 import DiscoverCard from "@/components/DiscoverCard";
 import plainWhiteShirt from "../assets/images/plain-white-shirt.png";
 import denimJacket from "../assets/images/denim-jacket.png";
