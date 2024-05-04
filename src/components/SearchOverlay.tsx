@@ -59,7 +59,7 @@ function SearchOverlay({ open, toggle }: Props) {
       if (search.searchTerm.trim().length > 2) {
         autoComplete(search.searchTerm);
       }
-    }, 1000);
+    }, 500);
     return () => clearTimeout(timeout);
   }, [inputTrack]);
 
